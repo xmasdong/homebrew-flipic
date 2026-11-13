@@ -21,6 +21,7 @@ cask "flipic-lens" do
   zap trash: [
     "~/Library/Application Support/Flipic",
     "~/Library/Caches/com.xmasdong.photoview",
+    "~/Library/Caches/Flipic",
     "~/Library/Preferences/com.xmasdong.photoview.plist",
   ]
 end
