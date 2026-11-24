@@ -1,6 +1,6 @@
 cask "flipic-lens" do
-  version "1.0.63"
-  sha256 "04880752c78d4eb121e73089f377d621f9d8a69867117c79a63dbc0f0d5f2881"
+  version "1.0.64"
+  sha256 "288d98064935b0b4f36b45674c610475e029b620be6e871e31b84f9a8d2c962e"
 
   url "https://github.com/xmasdong/flipic/releases/download/v#{version}/Flipic.dmg"
   name "Flipic Lens"
